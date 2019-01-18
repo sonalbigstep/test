@@ -1,0 +1,12 @@
+diff --git a/index.tpl b/index.tpl
+index 969f3fe..afb63da 100644
+--- a/index.tpl
++++ b/index.tpl
+@@ -2,6 +2,5 @@
+ 
+ echo "Hello world";
+ echo "This change was made on second branch";
+-echo "This change was made on second branch after a commit on second - first branch";
+ 
+ ?>
+\ No newline at end of file
